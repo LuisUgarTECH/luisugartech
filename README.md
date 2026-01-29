@@ -14,13 +14,13 @@ Hi! I’m Daniel, a Computer Systems Engineer passionate about building clean, f
 
 <img src="https://github.com/user-attachments/assets/ad5c4d34-236d-477f-b52c-57035fcc9216" align="left" width="30">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luisugartec) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ld.ugartechavez@ugto.mx) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luisugartech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ld.ugartechavez@ugto.mx) 
 
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisUgarteC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=LuisUgarteC&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisUgarTECH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=LuisUgarTECH&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 # 💻 Tech Stack:
